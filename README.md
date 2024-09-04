@@ -54,17 +54,17 @@ Data enrichment available as an addition to the data points extracted: <b>Based 
 
 <h2>What are the Shopee datasets use cases?</h2>
 
-<h3>1. Competitor Monitoring</h3>
+<h3>1. Pricing Optimization</h3>
 
-Keep a close watch on competitor locations, products, customer ratings, and reviews. Pinpoint areas where your listings and pricing can be optimized to surpass your competitors.
+Develop dynamic pricing models and craft a tailored pricing strategy by comparing Shopee products and categories with competitor offerings.
 
-<h3>2. Brand Perception</h3>
+<h3>2. Gap Analysis</h3>
 
-Gain insights into customer opinions about your brand and competitors. Detect shifts in consumer preferences and market trends, allowing you to adjust your strategy to maintain or enhance brand reputation.
+Spot inventory gaps in Shopee's product lineup, track rising demand for specific items, and uncover products gaining traction with consumers.
 
-<h3>3. Market Insights</h3>
+<h3>3. Market Strategy Refinement</h3>
 
-Uncover popular destinations and newly listed properties on Shopee to stay ahead of industry trends. Leverage Shopee data for in-depth market analysis, driving machine learning initiatives, and crafting innovative offerings.
+Utilize Shopee datasets for in-depth market strategy analysis, pinpointing key trends and shifts in customer preferences.
 
 <h2>Free access to web scraping tools and datasets for academic researchers and NGOs</h2>
 
